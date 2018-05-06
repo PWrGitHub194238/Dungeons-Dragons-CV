@@ -1,2 +1,3 @@
 # Dungeons-Dragons-CV
-My interactive CV project heavily based on Dungeons &amp; Dragons RPG and Heroes of Might and Magic III graphic style. This is an extended version of my regular (formal) CV, including some psychological tests' results such as Standout Assessment or 16 Personalities test etc.
+
+My interactive CV project heavily based on [Dungeons & Dragons RPG](http://dnd.wizards.com/) and [Heroes of Might and Magic III](https://www.ubisoft.com/pl-pl/game/heroes-of-might-and-magic-3-hd/) (sorry, [New World Computing](https://en.wikipedia.org/wiki/New_World_Computing), You had no site for it :/) graphic style. This is an extended version of my [regular CV]() (which was writen in a is bit more formal style), including some psychological tests' results such as (Standout Assessment)[https://standout.tmbc.com/] or (16 Personalities)[https://www.16personalities.com/] test etc.
