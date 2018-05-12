@@ -1,0 +1,63 @@
+-----------------------------
+StandOut: Doradca
+
+Osoba praktyczna i konkretna, która najlepiej sprawdza się w rozwiązywaniu cudzych problemów i reagowaniu na nie.
+
+Kolejność według dominacji: 9.
+Kliknięcie spowoduje przeniesienie do raportu.
+-----------------------------
+StandOut: Łącznik
+
+Człowiek - katalizator, którego największa siła objawia się w dążeniu do połączenia dwóch różnych rzeczy w coś większego, niż są teraz.
+
+Kolejność według dominacji: 7.
+Kliknięcie spowoduje przeniesienie do raportu.
+-----------------------------
+StandOut: Twórca
+
+Osoba nadająca w swoich oczach światu sens poprzez rozkładanie go na części i doszukiwaniu się lepszych możliwości jego złożenia na nowo.
+
+Kolejność według dominacji: 5.
+Kliknięcie spowoduje przeniesienie do raportu.
+-----------------------------
+StandOut: Mediator
+
+Osoba zrównoważona, której moc pochodzi z utrzymywania równowagi w świecie, etycznie i praktycznie.
+
+Kolejność według dominacji: 6.
+Kliknięcie spowoduje przeniesienie do raportu.
+-----------------------------
+StandOut: Autorytet
+
+Osoba, której siła tkwi w jej umiejętności angażowania ludzi, zachęcania ich do podejmowania działania, przekonywania do nich dzięki swojej perswazji.
+
+Kolejność według dominacji: 3.
+Kliknięcie spowoduje przeniesienie do raportu.
+-----------------------------
+StandOut: Pionier
+
+Osoba postrzegająca świat jako przyjazne miejsce, gdzie za każdym rogiem mogą wydarzyć się dobre rzeczy. Charakterystyczna siła tej osobowości zaczyna się wraz z jej optymizmem, który wyraża w obliczu pojawienia się niepewności.
+
+Kolejność według dominacji: 1.
+Kliknięcie spowoduje przeniesienie do raportu.
+-----------------------------
+StandOut: Opiekun
+
+Osoba nakierunkowana na odbiór uczuć innych osób, czująca potrzebę ich rozpoznawania, wypowiadania na głos i podejmowania działań w związku z nimi.
+
+Kolejność według dominacji: 2.
+Kliknięcie spowoduje przeniesienie do raportu.
+-----------------------------
+StandOut: Stymulator
+
+Osoba poczuwająca się do odpowiedzialności za innych ludzi, będąca powiernikiem ich emocji, czująca się za nie odpowiedzialna, za robienie z nich dobrego użytku w celu pobudzania innych do działania.
+
+Kolejność według dominacji: 8.
+Kliknięcie spowoduje przeniesienie do raportu.
+-----------------------------
+StandOut: Nauczyciel
+
+Osoba potrafiąca i chcąca dostrzec w każdym ogromny potencjał. Jej siłą jest zdolność nakierowywania, uczenia ich jak ten potencjał wyzwolić.
+
+Kolejność według dominacji: 4.
+Kliknięcie spowoduje przeniesienie do raportu.
