@@ -1,63 +1,370 @@
-﻿-----------------------------
+﻿01. Dane postaci
+
+-----------------------------
+e-mail
+
+Wyślij wiadomość e-mail.
+-----------------------------
+e-mail
+
+Wyślij wiadomość e-mail.
+-----------------------------
+Profil LinkedIn
+
+Zobacz profil LinkedIn.
+-----------------------------
+Profil GitHub
+
+Zobacz repozytorium GitHub.
+-----------------------------
+
+02. Atrybuty
+
+-----------------------------
+16personalities: umysł
+
+Umysł: introwertyk a ekstrawertyk
+
+Kliknięcie spowoduje przeniesienie do strony ze szczegółami [EN].
+-----------------------------
+16personalities: energia
+
+Energia: intuicyjny a realistyczny
+
+Kliknięcie spowoduje przeniesienie do strony ze szczegółami [EN].
+-----------------------------
+16personalities: natura
+
+Natura logika a zasady
+
+Kliknięcie spowoduje przeniesienie do strony ze szczegółami [EN].
+-----------------------------
+16personalities: taktyka
+
+Taktyka: planujący a poszukujący
+
+Kliknięcie spowoduje przeniesienie do strony ze szczegółami [EN].
+-----------------------------
+16personalities: identyfikacja
+
+Identyfikacja: asertywny a czujny
+
+Kliknięcie spowoduje przeniesienie do strony ze szczegółami [EN].
+-----------------------------
 StandOut: Doradca
 
-You are a practical, concrete thinker who is at your most powerful when reacting to and solving other people's problems.
+Osoba praktyczna i konkretna, która najlepiej sprawdza się w rozwiązywaniu cudzych problemów i reagowaniu na nie.
 
-Order by dominance: 9.
-Click to be redirected to the report.
+Kolejność według dominacji: 9.
+Kliknięcie spowoduje przeniesienie do raportu.
 -----------------------------
 StandOut: Łącznik
 
-You are a catalyst. Your power lies in your craving to put two things together to make something bigger than it is now.
+Człowiek - katalizator, którego największa siła objawia się w dążeniu do połączenia dwóch różnych rzeczy w coś większego, niż są teraz.
 
-Order by dominance: 7.
-Click to be redirected to the report.
+Kolejność według dominacji: 7.
+Kliknięcie spowoduje przeniesienie do raportu.
 -----------------------------
 StandOut: Twórca
 
-You make sense of the world, pulling it apart, seeing a better configuration, and creating it.
+Osoba nadająca w swoich oczach światu sens poprzez rozkładanie go na części i doszukiwaniu się lepszych możliwości jego złożenia na nowo.
 
-Order by dominance: 5.
-Click to be redirected to the report.
+Kolejność według dominacji: 5.
+Kliknięcie spowoduje przeniesienie do raportu.
 -----------------------------
 StandOut: Mediator
 
-You are a level-headed person whose power comes from keeping the world in balance, ethically and practically.
+Osoba zrównoważona, której moc pochodzi z utrzymywania równowagi w świecie, etycznie i praktycznie.
 
-Order by dominance: 6.
-Click to be redirected to the report.
+Kolejność według dominacji: 6.
+Kliknięcie spowoduje przeniesienie do raportu.
 -----------------------------
 StandOut: Autorytet
 
-You engage people directly and convince them to act. Your power is your persuasion.
+Osoba, której siła tkwi w jej umiejętności angażowania ludzi, zachęcania ich do podejmowania działania, przekonywania do nich dzięki swojej perswazji.
 
-Order by dominance: 3.
-Click to be redirected to the report.
+Kolejność według dominacji: 3.
+Kliknięcie spowoduje przeniesienie do raportu.
 -----------------------------
 StandOut: Pionier
 
-You see the world as a friendly place where, around every corner, good things will happen. Your distinctive power starts with your optimism in the face of uncertainty.
+Osoba postrzegająca świat jako przyjazne miejsce, gdzie za każdym rogiem mogą wydarzyć się dobre rzeczy. Charakterystyczna siła tej osobowości zaczyna się wraz z jej optymizmem, który wyraża w obliczu pojawienia się niepewności.
 
-Order by dominance: 1.
-Click to be redirected to the report.
+Kolejność według dominacji: 1.
+Kliknięcie spowoduje przeniesienie do raportu.
 -----------------------------
 StandOut: Opiekun
 
-You sense other people's feelings, and you feel compelled to recognize these feelings, give them a voice and act on them.
+Osoba nakierunkowana na odbiór uczuć innych osób, czująca potrzebę ich rozpoznawania, wypowiadania na głos i podejmowania działań w związku z nimi.
 
-Order by dominance: 2.
-Click to be redirected to the report.
+Kolejność według dominacji: 2.
+Kliknięcie spowoduje przeniesienie do raportu.
 -----------------------------
 StandOut: Stymulator
 
-You are the host of other people's emotions. You feel responsible for them, for turning them around, for elevating them.
+Osoba poczuwająca się do odpowiedzialności za innych ludzi, będąca powiernikiem ich emocji, czująca się za nie odpowiedzialna, za robienie z nich dobrego użytku w celu pobudzania innych do działania.
 
-Order by dominance: 8.
-Click to be redirected to the report.
+Kolejność według dominacji: 8.
+Kliknięcie spowoduje przeniesienie do raportu.
 -----------------------------
 StandOut: Nauczyciel
 
-You are thrilled by the potential you see in each person. Your power comes from learning how to unleash it.
+Osoba potrafiąca i chcąca dostrzec w każdym ogromny potencjał. Jej siłą jest zdolność nakierowywania, uczenia ich jak ten potencjał wyzwolić.
 
-Order by dominance: 4.
-Click to be redirected to the report.
+Kolejność według dominacji: 4.
+Kliknięcie spowoduje przeniesienie do raportu.
+-----------------------------
+StandOut
+
+Test silnych stron StandOut.
+-----------------------------
+16personalities
+
+Test osobowosci 16personalities.
+-----------------------------
+16personalities: obrońca
+
+Przeczytaj więcej o typie osobowości ,,obrońca''.
+-----------------------------
+16personalities: rzecznik
+
+Przeczytaj więcej o typie osobowości ,,rzecznik''.
+-----------------------------
+
+03. Tło fabularne
+
+-----------------------------
+PWr: magisterskie
+
+Plan studiów magisterskich na specjalizacji algorytmicznej.
+-----------------------------
+PWr: inżynier
+
+Plan studiów inżynierskich.
+-----------------------------
+
+04. Języki
+
+-----------------------------
+
+05. Doświadczenie zawodowe
+
+-----------------------------
+
+06a. Projekty zawodowe
+
+-----------------------------
+
+06b. Projekty zawodowe
+
+-----------------------------
+
+07. Umiejętności
+
+-----------------------------
+
+08. Projekty akademickie
+
+-----------------------------
+
+09. Pozostałe dane
+
+-----------------------------
+
+10. TEMA
+
+-----------------------------
+TEMA: Wyobraźnia przestrzenna
+
+Zdolność do analizy relacji, wykrywania i stosowania reguł na podstawie materiału obrazowoprzestrzennego.
+-----------------------------
+TEMA: Myślenie abstrakcyjne
+
+Zdolność do analizy relacji, wykrywania i stosowania reguł i pojęć abstrakcyjnych - czyli bardziej ogólnych w stosunku do prezentowanego materiału.
+-----------------------------
+TEMA: Płynność werbalna
+
+Zdolność sprawnego posługiwania się językiem polskim, rozumienia słów i tworzenia pojęć ogólnych.
+-----------------------------
+TEMA: Wnioskowanie logiczne
+
+Zdolność do dostrzegania relacji ilościowych oraz rozpoznawania i stosowania reguł na materiale liczbowym.
+-----------------------------
+
+Zgoda na przetwarzanie
+
+-----------------------------
+
+
+
+
+01. Dane postaci
+
+-----------------------------
+
+02. Atrybuty
+
+-----------------------------
+procentowy podział cech oraz przypisane ról oparte o testy: oraz
+-----------------------------
+
+03. Tło fabularne
+
+-----------------------------
+Studia: II stopnia, magisterskie,
+kierunek: informatyka,
+wydział: Podstawowych Problemów Techniki,
+specjalizacja: algorytmika,
+temat pracy dyplomowej: 
+Wybrane problemy odpornej optymalizacji dyskretnej 
+z możliwością modyfikacji.
+Ocena końcowa studiów: 5,0.
+-----------------------------
+Studia: I stopnia, inżynierskie,
+kierunek: informatyka,
+wydział: Podstawowych Problemów Techniki,
+temat pracy dyplomowej: 
+Algorytmy wyznaczania najkrótszych ścieżek 
+w rzeczywistych sieciach drogowych.
+Ocena końcowa studiów: 5,5,
+osiągnięcia: laureat konkursu na najlepszego absolwenta studiów I stopnia Wydziału Podstawowych Problemów Techniki 
+Politechniki Wrocławskiej w roku akademickim 2014/2015.
+-----------------------------
+
+04. Języki
+
+-----------------------------
+
+05. Doświadczenie zawodowe
+
+-----------------------------
+• Tworzenie, rozwój oprogramowania dla sektora finansowego (C#, .NET, T-SQL), 
+• opieka i transformacja dotychczasowych rozwiązań do nowszych technologii, 
+• odpowiadanie za pełny cykl wytwarzania oprogramowania (zbieranie wymagań, 
+projektowanie, implementacja, wdrożenie, utrzymanie), kontakt z architektami klienta,
+• tworzenie oraz utrzymanie testów jednostkowych.
+-----------------------------
+• Utrzymanie i rozwijanie autorskiego frameworka Neos,  
+rozwój aplikacji SenteS4 oraz WWW (C#, Firebird/PSQL, CSS),
+• rozwój produktów w oparciu o technologię Neos (C#),
+• wsparcie pracowników w zakresie wewnętrznej technologii firmy,
+• prowadzenie szkoleń wewnętrznych (Git, SenteS4, Neos).
+-----------------------------
+• Tworzenie funkcjonalności w systemie klasy ERP w obszarach FK 
+i Personel, obsługa kluczowych klientów (kontakt telefoniczny),
+• zapewnianie utrzymania aplikacji i naprawy błędów (C++, C#),
+• optymalizowanie struktur bazodanowych (Firebird/PSQL),
+• prowadzenie szkoleń wewnętrznych (Git, know-how aplikacji ERP).
+-----------------------------
+• Tworzenie funkcjonalności w systemie klasy CRM dla jednego 
+z klientów w technologii Java J2EE z wykorzystaniem komponentów 
+Spring oraz Hibernate w oparciu o relacyjną bazę danych Oracle,
+• testowanie stworzonej już funkcjonalności.
+-----------------------------
+• Implementacja i testowanie oprogramowania komputerowego,
+• modyfikacja funkcjonalności zmiany taryfy w systemie klasy CRM 
+dla jednego z klientów w technologii Java J2EE z wykorzystaniem komponentów Spring oraz Hibernate w oparciu o relacyjną bazę danych Oracle.
+-----------------------------
+
+06a. Projekty zawodowe
+
+-----------------------------
+Stworzenie interaktywnego, zautomatyzowanego środowiska szkoleniowego z zakresu tematyki systemów kontroli wersji (Git). 
+Założenia systemu: samodzielna praca osób szkolonych na repozytoriach zakładanych przez system, definiowanie scenariuszy 
+do wykonania, możliwość ich zautomatyzowanej weryfikacji, system umożliwia automatyczną ingerencję w stan repozytorium 
+kursanta, modyfikowanie go do potrzeb następnych scenariuszy, łatwość dodawania scenariuszy (HTML5, CSS3, JS: jQuery, jQuery UI, AJAX, DataTables, Notify, TipTop, Node.js: Express, Scribe-js, JSON, Gitolite, Perl, Bash, Firebird/PSQL).
+-----------------------------
+Implementacja interfejsów dla Jednolitych Plików Kontrolnych – biblioteka generowania dokumentów JPK na podstawie pobranych informacji z baz danych klientów, zapewniająca komunikację z elektronicznym systemem wymiany dokumentów JPK Ministerstwa Finansów (REST, Azure) oraz szyfrowanie wymienianych danych (C#: RestSharp, BouncyCastle, NLog, Firebird/PSQL).
+-----------------------------
+
+06b. Projekty zawodowe
+
+-----------------------------
+Implementacja interfejsu dla aplikacji ERP do uruchamiania zewnętrznych bibliotek. Założenia aplikacji: interfejs graficzny 
+pobierający i przetwarzający informacje z aplikacji ERP w zależności od załadowanej biblioteki (plug-inu), wyświetlający stan 
+postępu przetwarzania danych przez plug-in poprzez udostępniony interfejs (C#: WPF, LINQ, Firebird/PSQL).
+-----------------------------
+Implementacja biblioteki w formie plug-inu do obsługi procesów kryptograficznych na potrzeby systemu wymiany plików 
+elektronicznych Ministerstwa Finansów. Założenia systemu: oferowanie możliwości złożenia podpisu elektronicznego (XAdES-BES otaczany i otaczający) na dowolnym dokumencie formatu XML (C#: WPF, MVVM, LINQ, BouncyCastle, NLog).
+-----------------------------
+
+07. Umiejętności
+
+-----------------------------
+   • C# (obecnie wiodący - Capgemini Polska Sp. z.o.o., Sente Systemy Informatyczne Sp. z.o.o.),
+-----------------------------    
+   • C/C++ (projekty towarzyszące pracom dyplomowym, C++ niezbędny do rozwoju kodu źródłowego aplikacji ERP 
+w Sente Systemy Informatyczne Sp. z.o.o. - dług technologiczny, rzadko wykorzystywany),
+-----------------------------
+   • Java SE (znaczna część projektów akademickich, podjęcie współpracy z Comarch SA – Java EE).
+-----------------------------
+   • JS (Node.js, REST, jQuery oraz jQuery UI, AJAX, TS, laureat konkursu SynergyCodes Code Challenge 2015),
+-----------------------------
+   • HTML5/CSS3 (selektory, CSS-Grid, podstawowe stylowanie i transformacje).
+-----------------------------
+   • Praca z relacyjnymi bazami danych: Firebird (Sente Systemy Informatyczne Sp. z.o.o.), 
+Oracle (Comarch SA), MS Server (Capgemini Polska Sp. z.o.o.).
+-----------------------------
+   • Praca ze środowiskiem do zarządzania projektami JIRA (Comarch SA, Sente Systemy Informatyczne Sp. z.o.o.),
+-----------------------------
+   • praca z systemami kontroli wersji SVN (Comarch SA), Git (Sente Systemy Informatyczne, Capgemini Polska),
+-----------------------------
+   • praca w środowiskach programistycznych: Visual Studio Express, Eclipse, IBExpert.
+-----------------------------
+   • Znajomość metodologii SCRUM (Comarch SA, Sente), średnio-zaawansowana znajomość środowiska GNU Bash,
+-----------------------------
+   • praca z technologiami EJB, JPA, Hibernate, JSP, Spring, Apache POI-HSSF (Comarch SA),
+-----------------------------
+   • implementacja i graficzna symulacja struktur: RBT, wzbogacone RBT, BST, SkipList oraz algorytmów wyszukiwania statystyk pozycyjnych- Median of medians, RandomSelect (język Java, C++),
+-----------------------------
+   • umiejętność programowania LP/MIP/IP oraz pakietów optymalizacyjnych (GNU Octave, IBM ILOG).
+-----------------------------
+
+08. Projekty akademickie
+
+-----------------------------
+• Projekt magisterski. Implementacja algorytmów odpornej optymalizacji z jednoczesnym rozwiązaniem problemów: minimaksowych, adwersarza, na przykładzie zagadnienia odpornego minimalnego drzewa rozpinającego z możliwością poprawy (C++11, log4cxx, Graphviz, IBM ILOG CPLEX, RapidJson, Boost).
+• Projekt inżynierski. Implementacja algorytmów wyszukiwania najkrótszych ścieżek wykorzystywanych w ruchu 
+drogowym, m.in: warianty generycznego algorytmu Dijkstry (z modyfikacją zakresów (DKA), z wykorzystaniem 
+struktury wielopoziomowej (DKD), z obsługą przepełnienia (DKM)), w oparciu o znane struktury (K-drzew (DKH), R-kopców (DKR), kopca Fibonacciego (DKF)), algorytmy: Dial (DKL), RadixHeap (DKX), Pape’a (PAP), Pallottino (TQQ), algorytmy topologiczne (GR1, GR2) i algorytm progowy (THR) (C ISO 9899:1999).
+-----------------------------
+• Implementacja kompilatora języka imperatywnego dla danej specyfikacji maszyny wirtualnej (C, Flex, Bison).
+• Aplikacja webowa do zarządzania projektami informatycznymi zintegrowana z systemem kontroli wersji SVN. Projekt   
+    zespołowy w oparciu o technologię AJAX, bazę danych MS SQL (jQuery/XHTML/T-SQL/MDX).
+• LoChat – projekt zespołowy aplikacji do komunikacji na podstawie lokalnego zasięgu/położenia 
+    i preferencjo/oczekiwań co do uzyskania informacji o regionie (Android, PostgreSQL, Node.js, Socket.IO).
+• Android MultiPlay – aplikacja na urządzenia mobilne z systemem Android zastępująca fizyczne kontrolery 
+    typu Plug&Play komputerów. Projekt zespołowy z wykorzystaniem bezprzewodowej komunikacji WiFi/BT, 
+    bazy danych SQLite (Java),
+• algorytmy sortujące w miejscu/nie: Insertion-, Bubble-, IterativeMerge-, RecursiveMerge-, Quick-, Heap-, Counting-, 
+    Radix - sort- implementacja, analiza złożoności poszczególnych sortowań, bądź sortowań hybrydowych (Java).
+• ScholaPPTCreator – projekt generujący prezentacje w formacie .ppt w oparciu o elementy 
+    sztucznej inteligencji (Java, Apache POI-HSSF, CLI, EJB, Google MJL).
+-----------------------------
+
+09. Pozostałe dane
+
+-----------------------------
+•   Członek Zespołu jest tworzywem, które spaja zespół. Zdecydowanie przyczynia się do wytworzenia „ducha zespołu”. 
+    Jest zabawny, wrażliwy na uczucia innych i na ogólną atmosferę w zespole. Zdaje sobie sprawę z mocnych i słabych 
+    stron innych i potrafi odpowiednio reagować na ich zróżnicowane potrzeby. To on będzie najprawdopodobniej 
+    powiernikiem pozostałych członków zespołu, będzie znał ich osobiste problemy i kryzysy, nie dlatego, że jest ciekawski,  
+    lecz ze względu na zdolność do szczerego współczucia. Może wykazywać niezdecydowanie w sytuacjach krytycznych 
+    oraz słabość charakteru w niektórych sytuacjach. Jednak jego zdolność do czytania w innych jak w otwartej księdze 
+    oraz świadomość swoich własnych umiejętności sprzyja podnoszeniu morale zespołu oraz kreowaniu chęci do współ
+    pracy. Z tego też powodu często bywa on liderem grupy.	
+-----------------------------
+•   Konsekwentny Realizator to ten członek zespołu, który stawia kropki nad wszystkimi „;i”. Silnie rozwinięta 
+    umiejętność doprowadzania spraw do końca połączona z dążeniem do perfekcji rodzi wiele niepokojów i stresów. Będzie 
+    zamartwiał się drobnymi szczegółami, ale mimo to, zrealizuje swoje zadania dobrze i w określonym czasie. Nerwowa 
+    energia, którą angażuje w końcowy efekt pracy zespołu owocuje gwarancją wysokiej jakości. Bywa niezbyt dobrym   
+    przywódcą - „czepia się” i może przywiązywać zbytnią wagę do szczegółów, co obniża morale zespołu. Niemniej jednak, 
+    Konsekwentny Realizator jest uparty oraz wytrwały i nie podda się, dopóki nie będzie usatysfakcjonowany wysokim 
+    standardem swojej pracy.
+-----------------------------
+- dobór ról i ich opis oparty o test Mereditha Belbina, stworzony w oparciu o teorię ról zespołowych.
+-----------------------------
+
+10. TEMA
+
+-----------------------------
