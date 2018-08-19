@@ -1,4 +1,56 @@
-﻿-----------------------------
+﻿01. Dane postaci
+
+-----------------------------
+e-mail
+
+Send an e-mail.
+-----------------------------
+e-mail
+
+Send an e-mail.
+-----------------------------
+Profil LinkedIn
+
+View LinkedIn's profile.
+-----------------------------
+Profil GitHub
+
+Go to the GitHub repository.
+-----------------------------
+
+02. Atrybuty
+
+-----------------------------
+16personalities: umysł
+
+Mind: introverted vs. extraverted
+
+Click to be redirected to the details.
+-----------------------------
+16personalities: energia
+
+Energy: intuitive vs. observant
+
+Click to be redirected to the details.
+-----------------------------
+16personalities: natura
+
+Nature: thinking vs. feeling
+
+Click to be redirected to the details.
+-----------------------------
+16personalities: taktyka
+
+Tactics: judging vs. prospecting
+
+Click to be redirected to the details.
+-----------------------------
+16personalities: identyfikacja
+
+Identity: assertive vs. turbulent
+
+Click to be redirected to the details.
+-----------------------------
 StandOut: Doradca
 
 You are a practical, concrete thinker who is at your most powerful when reacting to and solving other people's problems.
@@ -61,3 +113,259 @@ You are thrilled by the potential you see in each person. Your power comes from 
 
 Order by dominance: 4.
 Click to be redirected to the report.
+-----------------------------
+StandOut
+
+Read about Standout 2 0 Assessment.
+-----------------------------
+16personalities
+
+Read about 16personalities test.
+-----------------------------
+16personalities: obrońca
+
+Read more about the "defender" personality type.
+-----------------------------
+16personalities: rzecznik
+
+Read more about the "advocate" personality type.
+-----------------------------
+
+03. Tło fabularne
+
+-----------------------------
+PWr: magisterskie
+
+Plan of master's degree studies with specialization of algorithmic.
+-----------------------------
+PWr: inżynier
+
+Plan of enginieer's degree studies.
+-----------------------------
+
+04. Języki
+
+-----------------------------
+
+05. Doświadczenie zawodowe
+
+-----------------------------
+
+06a. Projekty zawodowe
+
+-----------------------------
+
+06b. Projekty zawodowe
+
+-----------------------------
+
+07. Umiejętności
+
+-----------------------------
+
+08. Projekty akademickie
+
+-----------------------------
+
+09. Pozostałe dane
+
+-----------------------------
+
+10. TEMA
+
+-----------------------------
+TEMA: Wyobraźnia przestrzenna
+
+Ability to analyze relations, detect and apply rules based on image and space material.
+-----------------------------
+TEMA: Myślenie abstrakcyjne
+
+The ability to analyze relationships, detect and apply abstract rules and concepts - which is more general in relation to the material presented.
+-----------------------------
+TEMA: Płynność werbalna
+
+Ability to efficiently use Polish, understand words and create general concepts.
+-----------------------------
+TEMA: Wnioskowanie logiczne
+
+Ability to perceive quantitative relations as well as to recognize and apply rules on numerical material.
+
+-----------------------------
+
+Zgoda na przetwarzanie
+
+-----------------------------
+
+
+
+
+01. Dane postaci
+
+-----------------------------
+
+02. Atrybuty
+
+-----------------------------
+percentage division of traits and assignment of roles based on tests: and
+-----------------------------
+
+03. Tło fabularne
+
+-----------------------------
+Studies: master’s degree,
+field: computer science,
+faculty: Fundamental Problems of Technology
+Specialisation: algorithmics,
+diploma thesis topic:
+Selected robust discrete optimization problems 
+with recourse.
+The final grade of the studies: 5,0 (A).
+-----------------------------
+Studies: enginieer’s degree,
+field: computer science,
+faculty: Fundamental Problems of Technology,
+diploma thesis topic:
+The shortest path-searching algorithms 
+in real road networks.
+The final grade of the studies: 5,5 (A),
+successes: laureate of the best graduate title at Faculty 
+of Fundamental Problems of Technology 
+in academic year 2014/2015.
+-----------------------------
+
+04. Języki
+
+-----------------------------
+
+05. Doświadczenie zawodowe
+
+-----------------------------
+• Development of new and existing software for the financial sector (C #, .NET, T-SQL),
+• maintaining and transformation of existing solutions to newer technologies,
+• responsibility for a full software development cycle (collection of requirements, 
+design, implementation, deploy, maintenance), contact with client architects,
+• creating and maintain of unit tests for both new and existing code.
+
+-----------------------------
+• Maintaining and development the internal framework Neos, creating new functionalities for ERP desktop and web application (C#, Firebird/PSQL, CSS), 
+• developing satellite, Neos-based products/plug-in’s (C#),
+• providing technical support to other teams in the field of internal technology,
+• conducting internal training (Git, ERP application know-how, Neos platform).
+-----------------------------
+• Creating functionalities in the ERP class system in the areas of Finances and Accountancy, Personnel, handling key clients (phone contact),
+• ensuring ERP application maintenance and error correction (C ++, C #),
+• optimization of database structures (Firebird/PSQL), 
+• conducting internal training (Git, ERP application know-how).
+-----------------------------
+• creating functionalities in a CRM class system for a client 
+in Java J2EE technology with the Spring and Hibernate components, 
+based on the Oracle relational database,
+• conducting regression tests.
+-----------------------------
+• Implementation and testing of computer software,
+• modification of the tariff-change functionality in the CRM class, 
+Java J2EE-based system using Spring and Hibernate components 
+with the Oracle relational database.
+-----------------------------
+
+06a. Projekty zawodowe
+
+-----------------------------
+Creation of an interactive, automated training environment in the field of version control systems (Git). System assumptions: 
+self-developing work with real repositories, provided automatically by the system, defining scenarios to be performed, 
+the possibility of automated verification, system allows automatic interference in the state of any repository, modify it to sute the needs of the next scenarios (artificial repository user), ease of adding scenarios (HTML5, CSS3, JS: jQuery, jQuery UI, AJAX, DataTables, Notify, TipTop, Node.js: Express, Scribe-js, JSON, Gitolite, Perl, Bash, Firebird/PSQL). 
+-----------------------------
+Implementation of Standard Audit File for Tax (pl. JPK) service interfaces - a library supporting the generation of JPK documents based on 
+downloaded information from customer databases, ensuring communication with the Ministry of Finance’s electronic 
+document exchange system for JPK (REST, Azure Storage) along with proper data encryption (C#: RestSharp, BouncyCastle, NLog, Firebird/PSQL). 
+-----------------------------
+
+06b. Projekty zawodowe
+
+-----------------------------
+Implementation of the interface for ERP application for running external libraries. Application assumptions: a graphical interface that downloads and processes information from an ERP application depending on the loaded library (plug-in), displaying the status of data processing progress by a plug-in through a shared interface (C#: WPF, LINQ, Firebird/PSQL). 
+-----------------------------
+Implementation of a plug-in library to support cryptographic processes for the needs of the Ministry of Finance’s 
+electronic file exchange system. System assumptions: offering the possibility of submitting 
+an electronic signature (XAdES-BES) on any XML document (C #: WPF, MVVM, LINQ, BouncyCastle, Nlog).
+-----------------------------
+
+07. Umiejętności
+
+-----------------------------
+   • C# (currently leading – Capgemini Polska Sp. z.o.o., Sente Systemy Informatyczne Sp. z.o.o.), 
+-----------------------------    
+   • C/C++ (both diploma projects, C ++ necessary for the development of the source code of ERP application 
+in Sente Systemy Informatyczne Sp. z o.o. - technological debt, rarely used), 
+-----------------------------
+   • Java SE (a significant part of academic projects, starting cooperation with Comarch S.A – Java EE).
+-----------------------------
+   • JS (Node.js, REST, jQuery oraz jQuery UI, AJAX, TS, laureate of Synergy Codes Code Challenge 2015), 
+-----------------------------
+   • HTML5/CSS3 (selectors, CSS-Grid, basic styling and transformations).
+-----------------------------
+   • knowledge of relational databases: Firebird (Sente Systemy Informatyczne Sp. z.o.o.), 
+   Oracle (Comarch SA), MS Server (Capgemini Polska Sp. z.o.o.), 
+-----------------------------
+   • Work with project management enviroments like JIRA (Comarch SA, Sente Systemy Informatyczne Sp. z.o.o.),
+-----------------------------
+   • work with version control systems: SVN (Comarch SA), Git (Sente Systemy Informatyczne, Capgemini Polska),
+-----------------------------
+   • work in given programming environments: Visual Studio Express, Eclipse, IBExpert. 
+-----------------------------
+   • Knowledge of SCRUM methodology (Comarch SA, Sente, Capgemini), GNU Bash environment,
+-----------------------------
+   • work with EJB, JPA, JSP, Hibernate, Spring, Apache POI-HSSF (Comarch SA).
+-----------------------------
+   • implementation and graphical simulation of structures: RBT, enhanced RBT, BST, SkipList, implementation of positional statistics based search algorithms - Median of medians, RandomSelect (Java, C ++),
+-----------------------------
+   • practical knowledge of LP / MIP / IP programming and optimization packages (GNU Octave, IBM ILOG).
+-----------------------------
+
+08. Projekty akademickie
+
+-----------------------------
+• Master’s degree project. rojekt magisterski. Implementation of robust optimization algorithms with simultaneous solution of problems: minimax, adversary, resistant minimum spanning tree with the possibility of improvement (C++11, log4cxx, Graphviz, IBM ILOG CPLEX, RapidJson, Boost). 
+• Engineering project. Implementation of shortest-path search algorithms used in road traffic: variants of the generic Dijkstra algorithm (with range modification (DKA), using a multi-level structure (DKD), with overflow support (DKM)), based on known structures (K-trees (DKH), R-heaps (DKR), Fibonacci’s mound (DKF)), algorithms: Dial (DKL), RadixHeap (DKX), Pape (PAP), Pallottino (TQQ), topological algorithms (GR1, GR2) 
+and a threshold algorithm (THR) (C ISO 9899: 1999).
+-----------------------------
+• Implementation of an imperative language compiler for a given virtual machine specification (C, Flex, Bison). 
+• Web application for IT project management integrated with the SVN version control system. Team project based on 
+   AJAX technology and MS SQL database (jQuery/XHTML/T-SQL/MDX). 
+• LoChat – social application based on local reach/location and preferences/expectations. Team project that delivers a 
+   simple way to obtaining information about the region, local activities ad so on (Android, PostgreSQL, Node.js, Socket.IO). 
+• Android MultiPlay – an application for mobile devices with Android, simulating most 
+   of well-known physical Plug & Play controllers (PC/PS). Team project using wireless 
+   WiFi / BT communication, SQLite database (Java SE).
+• Implementation of sorting algorithms: Insertion-, Bubble-, IterativeMerge-, RecursiveMerge-, Quick-, Heap-, 
+   Counting-, Radix – sort. Analysis of the complexity of individual algorithms or hybrid versions of them (Java SE). 
+• ScholaPPTCreator – project generating presentations in .ppt format based 
+   on given .txt files (Java, Apache POI-HSSF, CLI, EJB, Google MJL). 
+-----------------------------
+
+09. Pozostałe dane
+
+-----------------------------
+• Team member is the material that connects the team. It definitely contributes to the creation of the „team spirit”. 
+    He is funny, sensitive to the feelings of others and to the overall atmosphere of the team. He realizes the strengths 
+    and weaknesses of others and is able to adequately respond to their diverse needs. He will most likely be the trustee 
+    of the other team members, he will know their personal problems and crises, not because he is inquisitive, 
+    but because of his ability to be sincerely compassionate. It may show indecisiveness in critical situations 
+    and weakness of character in some situations. However, his ability to read in others as in an open book 
+    and the awareness of his own skills favors raising the team’s morale and creating a willingness 
+    to cooperate. For this reason, he is often the leader of the group.
+-----------------------------
+•   Completer is the member of the team who dots the i's and crosses the t's. Strongly developed ability 
+    to bring things to the end combined with the pursuit of perfection raises many anxieties and stresses. He will 
+    worry about the fine details, but still, he will do his job well and at a certain time. Nervous 
+    energy, which engages in the final effect of the team's work, guarantees high quality. Sometimes he is not 
+    a good leader - he "clings to" and might pay too much attention to details, which reduces the team's morale. 
+    Nevertheless, the Completer is stubborn and persistent and will not give up until he is satisfied 
+    with the high standard of his work.
+-----------------------------
+- selection of roles and their description based on Meredith Belbin's test, created based on the theory of team roles.
+-----------------------------
+
+10. TEMA
+
+-----------------------------
