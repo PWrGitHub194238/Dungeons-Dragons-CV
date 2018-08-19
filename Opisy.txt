@@ -305,7 +305,7 @@ in Sente Systemy Informatyczne Sp. z o.o. - technological debt, rarely used),
    • HTML5/CSS3 (selectors, CSS-Grid, basic styling and transformations).
 -----------------------------
    • knowledge of relational databases: Firebird (Sente Systemy Informatyczne Sp. z.o.o.), 
-   Oracle (Comarch SA), MS Server (Capgemini Polska Sp. z.o.o.), 
+   Oracle (Comarch SA), MS Server (Capgemini Polska Sp. z.o.o.).
 -----------------------------
    • Work with project management enviroments like JIRA (Comarch SA, Sente Systemy Informatyczne Sp. z.o.o.),
 -----------------------------
@@ -315,7 +315,7 @@ in Sente Systemy Informatyczne Sp. z o.o. - technological debt, rarely used),
 -----------------------------
    • Knowledge of SCRUM methodology (Comarch SA, Sente, Capgemini), GNU Bash environment,
 -----------------------------
-   • work with EJB, JPA, JSP, Hibernate, Spring, Apache POI-HSSF (Comarch SA).
+   • work with EJB, JPA, JSP, Hibernate, Spring, Apache POI-HSSF (Comarch SA),
 -----------------------------
    • implementation and graphical simulation of structures: RBT, enhanced RBT, BST, SkipList, implementation of positional statistics based search algorithms - Median of medians, RandomSelect (Java, C ++),
 -----------------------------
