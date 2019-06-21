@@ -131,47 +131,7 @@ Read more about the "defender" personality type.
 Read more about the "advocate" personality type.
 -----------------------------
 
-03. Tło fabularne
-
------------------------------
-PWr: magisterskie
-
-Plan of master's degree studies with specialization of algorithmic.
------------------------------
-PWr: inżynier
-
-Plan of enginieer's degree studies.
------------------------------
-
-04. Języki
-
------------------------------
-
-05. Doświadczenie zawodowe
-
------------------------------
-
-06a. Projekty zawodowe
-
------------------------------
-
-06b. Projekty zawodowe
-
------------------------------
-
-07. Umiejętności
-
------------------------------
-
-08. Projekty akademickie
-
------------------------------
-
-09. Pozostałe dane
-
------------------------------
-
-10. TEMA
+03. TEMA
 
 -----------------------------
 TEMA: Wyobraźnia przestrzenna
@@ -189,6 +149,73 @@ Ability to efficiently use Polish, understand words and create general concepts.
 TEMA: Wnioskowanie logiczne
 
 Ability to perceive quantitative relations as well as to recognize and apply rules on numerical material.
+-----------------------------
+
+04. Certyfikaty
+
+-----------------------------
+Cert: Software Development Fundamentals
+
+Candidates for this exam are seeking to prove core software development skills.
+-----------------------------
+Cert: MTA
+
+Certyfikat Microsoft Technology Associate
+-----------------------------
+Cert: Programming in C#
+
+Candidates for this exam are developers with at least one year of experience programming essential business logic for a variety of application types, hardware, and software platforms using C#.
+-----------------------------
+Cert: Developing ASP.NET NVC Web Applications
+
+Kandydatami do tego egzaminu to profesjonalni programiści, którzy używają Microsoft Visual Studio 2017 i ASP.NET do projektowania i tworzenia rozwiązań internetowych.
+-----------------------------
+Cert: Programming in HTML5 with JavaScript and CSS3
+
+Candidates for this exam are developers with at least one year of experience developing with HTML in an object-based, event-driven programming model, and programming essential business logic for a variety of application types, hardware, and software platforms using JavaScript.
+-----------------------------
+Cert: Developing Microsoft Azure and Web Services
+
+Candidates for this certification are professional developers that use Visual Studio 2017 and the Microsoft® .NET Core Framework to design and develop Web solutions.
+-----------------------------
+
+05. Tło fabularne
+
+-----------------------------
+PWr: magisterskie
+
+Plan of master's degree studies with specialization of algorithmic.
+-----------------------------
+PWr: inżynier
+
+Plan of enginieer's degree studies.
+-----------------------------
+
+06. Języki
+
+-----------------------------
+
+07a. Doświadczenie zawodowe
+
+-----------------------------
+
+07b. Doświadczenie zawodowe
+
+-----------------------------
+
+08. Projekty zawodowe
+
+-----------------------------
+
+09. Umiejętności
+
+-----------------------------
+
+10. Projekty akademickie
+
+-----------------------------
+
+11. Pozostałe dane
 
 -----------------------------
 
@@ -209,7 +236,15 @@ Zgoda na przetwarzanie
 percentage division of traits and assignment of roles based on tests: and
 -----------------------------
 
-03. Tło fabularne
+03. TEMA
+
+-----------------------------
+
+04. Certyfikaty
+
+-----------------------------
+
+05. Tło fabularne
 
 -----------------------------
 Studies: master’s degree,
@@ -233,11 +268,11 @@ of Fundamental Problems of Technology
 in academic year 2014/2015.
 -----------------------------
 
-04. Języki
+06. Języki
 
 -----------------------------
 
-05. Doświadczenie zawodowe
+07a. Doświadczenie zawodowe
 
 -----------------------------
 • Development of new and existing software for the financial sector (C #, .NET, T-SQL),
@@ -245,7 +280,6 @@ in academic year 2014/2015.
 • responsibility for a full software development cycle (collection of requirements, 
 design, implementation, deploy, maintenance), contact with client architects,
 • creating and maintain of unit tests for both new and existing code.
-
 -----------------------------
 • Maintaining and development the internal framework Neos, creating new functionalities for ERP desktop and web application (C#, Firebird/PSQL, CSS), 
 • developing satellite, Neos-based products/plug-in’s (C#),
@@ -256,6 +290,10 @@ design, implementation, deploy, maintenance), contact with client architects,
 • ensuring ERP application maintenance and error correction (C ++, C #),
 • optimization of database structures (Firebird/PSQL), 
 • conducting internal training (Git, ERP application know-how).
+-----------------------------
+
+07b. Doświadczenie zawodowe
+
 -----------------------------
 • creating functionalities in a CRM class system for a client 
 in Java J2EE technology with the Spring and Hibernate components, 
@@ -268,7 +306,7 @@ Java J2EE-based system using Spring and Hibernate components
 with the Oracle relational database.
 -----------------------------
 
-06a. Projekty zawodowe
+08. Projekty zawodowe
 
 -----------------------------
 Creation of an interactive, automated training environment in the field of version control systems (Git). System assumptions: 
@@ -279,10 +317,6 @@ Implementation of Standard Audit File for Tax (pl. JPK) service interfaces - a l
 downloaded information from customer databases, ensuring communication with the Ministry of Finance’s electronic 
 document exchange system for JPK (REST, Azure Storage) along with proper data encryption (C#: RestSharp, BouncyCastle, NLog, Firebird/PSQL). 
 -----------------------------
-
-06b. Projekty zawodowe
-
------------------------------
 Implementation of the interface for ERP application for running external libraries. Application assumptions: a graphical interface that downloads and processes information from an ERP application depending on the loaded library (plug-in), displaying the status of data processing progress by a plug-in through a shared interface (C#: WPF, LINQ, Firebird/PSQL). 
 -----------------------------
 Implementation of a plug-in library to support cryptographic processes for the needs of the Ministry of Finance’s 
@@ -290,7 +324,7 @@ electronic file exchange system. System assumptions: offering the possibility of
 an electronic signature (XAdES-BES) on any XML document (C #: WPF, MVVM, LINQ, BouncyCastle, Nlog).
 -----------------------------
 
-07. Umiejętności
+09. Umiejętności
 
 -----------------------------
    • C# (currently leading – Capgemini Polska Sp. z.o.o., Sente Systemy Informatyczne Sp. z.o.o.), 
@@ -322,7 +356,7 @@ in Sente Systemy Informatyczne Sp. z o.o. - technological debt, rarely used),
    • practical knowledge of LP / MIP / IP programming and optimization packages (GNU Octave, IBM ILOG).
 -----------------------------
 
-08. Projekty akademickie
+10. Projekty akademickie
 
 -----------------------------
 • Master’s degree project. rojekt magisterski. Implementation of robust optimization algorithms with simultaneous solution of problems: minimax, adversary, resistant minimum spanning tree with the possibility of improvement (C++11, log4cxx, Graphviz, IBM ILOG CPLEX, RapidJson, Boost). 
@@ -343,7 +377,7 @@ and a threshold algorithm (THR) (C ISO 9899: 1999).
    on given .txt files (Java, Apache POI-HSSF, CLI, EJB, Google MJL). 
 -----------------------------
 
-09. Pozostałe dane
+11. Pozostałe dane
 
 -----------------------------
 • Team member is the material that connects the team. It definitely contributes to the creation of the „team spirit”. 
@@ -365,7 +399,6 @@ and a threshold algorithm (THR) (C ISO 9899: 1999).
 -----------------------------
 - selection of roles and their description based on Meredith Belbin's test, created based on the theory of team roles.
 -----------------------------
-
-10. TEMA
-
------------------------------
+I hereby give consent for my personal data included in my application to be processed for the purposes of the recruitment process in terms 
+of the 2016/679 regulation of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard 
+to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).
