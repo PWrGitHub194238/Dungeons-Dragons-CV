@@ -131,47 +131,7 @@ Przeczytaj więcej o typie osobowości ,,obrońca''.
 Przeczytaj więcej o typie osobowości ,,rzecznik''.
 -----------------------------
 
-03. Tło fabularne
-
------------------------------
-PWr: magisterskie
-
-Plan studiów magisterskich na specjalizacji algorytmicznej.
------------------------------
-PWr: inżynier
-
-Plan studiów inżynierskich.
------------------------------
-
-04. Języki
-
------------------------------
-
-05. Doświadczenie zawodowe
-
------------------------------
-
-06a. Projekty zawodowe
-
------------------------------
-
-06b. Projekty zawodowe
-
------------------------------
-
-07. Umiejętności
-
------------------------------
-
-08. Projekty akademickie
-
------------------------------
-
-09. Pozostałe dane
-
------------------------------
-
-10. TEMA
+03. TEMA
 
 -----------------------------
 TEMA: Wyobraźnia przestrzenna
@@ -191,6 +151,74 @@ TEMA: Wnioskowanie logiczne
 Zdolność do dostrzegania relacji ilościowych oraz rozpoznawania i stosowania reguł na materiale liczbowym.
 -----------------------------
 
+04. Certyfikaty
+
+-----------------------------
+Cert: Software Development Fundamentals
+
+Kandydaci na ten egzamin starają się udowodnić podstawowe umiejętności tworzenia oprogramowania.
+-----------------------------
+Cert: MTA
+
+Certyfikat Microsoft Technology Associate
+-----------------------------
+Cert: Programming in C#
+
+Kandydaci na ten egzamin to programiści z co najmniej rocznym doświadczeniem w programowaniu podstawowej logiki biznesowej dla różnych typów aplikacji, sprzętu i platform oprogramowania przy użyciu C#.
+-----------------------------
+Cert: Developing ASP.NET NVC Web Applications
+
+Kandydatami do tego egzaminu to profesjonalni programiści, którzy używają Microsoft Visual Studio 2017 i ASP.NET do projektowania i tworzenia rozwiązań internetowych.
+-----------------------------
+Cert: Programming in HTML5 with JavaScript and CSS3
+
+Kandydatami do tego egzaminu są programiści z co najmniej rocznym doświadczeniem w rozwijaniu HTML, w obiektowym, sterowanym zdarzeniami modelu programowania oraz programowaniu podstawowej logiki biznesowej dla różnych typów aplikacji, sprzętu i platform oprogramowania za pomocą JavaScript.
+-----------------------------
+Cert: Developing Microsoft Azure and Web Services
+
+Kandydatami do tego certyfikatu to profesjonalni programiści korzystający z Visual Studio 2017 i Microsoft .NET Core Framework do projektowania i tworzenia rozwiązań internetowych.
+-----------------------------
+
+05. Tło fabularne
+
+-----------------------------
+PWr: magisterskie
+
+Plan studiów magisterskich na specjalizacji algorytmicznej.
+-----------------------------
+PWr: inżynier
+
+Plan studiów inżynierskich.
+-----------------------------
+
+06. Języki
+
+-----------------------------
+
+07a. Doświadczenie zawodowe
+
+-----------------------------
+
+07b. Doświadczenie zawodowe
+
+-----------------------------
+
+08. Projekty zawodowe
+
+-----------------------------
+
+09. Umiejętności
+
+-----------------------------
+
+10. Projekty akademickie
+
+-----------------------------
+
+11. Pozostałe dane
+
+-----------------------------
+
 Zgoda na przetwarzanie
 
 -----------------------------
@@ -208,7 +236,15 @@ Zgoda na przetwarzanie
 procentowy podział cech oraz przypisane ról oparte o testy: oraz
 -----------------------------
 
-03. Tło fabularne
+03. TEMA
+
+-----------------------------
+
+04. Certyfikaty
+
+-----------------------------
+
+05. Tło fabularne
 
 -----------------------------
 Studia: II stopnia, magisterskie,
@@ -231,11 +267,11 @@ osiągnięcia: laureat konkursu na najlepszego absolwenta studiów I stopnia Wyd
 Politechniki Wrocławskiej w roku akademickim 2014/2015.
 -----------------------------
 
-04. Języki
+06. Języki
 
 -----------------------------
 
-05. Doświadczenie zawodowe
+07a. Doświadczenie zawodowe
 
 -----------------------------
 • Tworzenie, rozwój oprogramowania dla sektora finansowego (C#, .NET, T-SQL), 
@@ -256,6 +292,10 @@ i Personel, obsługa kluczowych klientów (kontakt telefoniczny),
 • optymalizowanie struktur bazodanowych (Firebird/PSQL),
 • prowadzenie szkoleń wewnętrznych (Git, know-how aplikacji ERP).
 -----------------------------
+
+07b. Doświadczenie zawodowe
+
+-----------------------------
 • Tworzenie funkcjonalności w systemie klasy CRM dla jednego 
 z klientów w technologii Java J2EE z wykorzystaniem komponentów 
 Spring oraz Hibernate w oparciu o relacyjną bazę danych Oracle,
@@ -266,7 +306,7 @@ Spring oraz Hibernate w oparciu o relacyjną bazę danych Oracle,
 dla jednego z klientów w technologii Java J2EE z wykorzystaniem komponentów Spring oraz Hibernate w oparciu o relacyjną bazę danych Oracle.
 -----------------------------
 
-06a. Projekty zawodowe
+08. Projekty zawodowe
 
 -----------------------------
 Stworzenie interaktywnego, zautomatyzowanego środowiska szkoleniowego z zakresu tematyki systemów kontroli wersji (Git). 
@@ -276,10 +316,6 @@ kursanta, modyfikowanie go do potrzeb następnych scenariuszy, łatwość dodawa
 -----------------------------
 Implementacja interfejsów dla Jednolitych Plików Kontrolnych – biblioteka generowania dokumentów JPK na podstawie pobranych informacji z baz danych klientów, zapewniająca komunikację z elektronicznym systemem wymiany dokumentów JPK Ministerstwa Finansów (REST, Azure) oraz szyfrowanie wymienianych danych (C#: RestSharp, BouncyCastle, NLog, Firebird/PSQL).
 -----------------------------
-
-06b. Projekty zawodowe
-
------------------------------
 Implementacja interfejsu dla aplikacji ERP do uruchamiania zewnętrznych bibliotek. Założenia aplikacji: interfejs graficzny 
 pobierający i przetwarzający informacje z aplikacji ERP w zależności od załadowanej biblioteki (plug-inu), wyświetlający stan 
 postępu przetwarzania danych przez plug-in poprzez udostępniony interfejs (C#: WPF, LINQ, Firebird/PSQL).
@@ -288,7 +324,7 @@ Implementacja biblioteki w formie plug-inu do obsługi procesów kryptograficzny
 elektronicznych Ministerstwa Finansów. Założenia systemu: oferowanie możliwości złożenia podpisu elektronicznego (XAdES-BES otaczany i otaczający) na dowolnym dokumencie formatu XML (C#: WPF, MVVM, LINQ, BouncyCastle, NLog).
 -----------------------------
 
-07. Umiejętności
+09. Umiejętności
 
 -----------------------------
    • C# (obecnie wiodący - Capgemini Polska Sp. z.o.o., Sente Systemy Informatyczne Sp. z.o.o.),
@@ -320,7 +356,7 @@ Oracle (Comarch SA), MS Server (Capgemini Polska Sp. z.o.o.).
    • umiejętność programowania LP/MIP/IP oraz pakietów optymalizacyjnych (GNU Octave, IBM ILOG).
 -----------------------------
 
-08. Projekty akademickie
+10. Projekty akademickie
 
 -----------------------------
 • Projekt magisterski. Implementacja algorytmów odpornej optymalizacji z jednoczesnym rozwiązaniem problemów: minimaksowych, adwersarza, na przykładzie zagadnienia odpornego minimalnego drzewa rozpinającego z możliwością poprawy (C++11, log4cxx, Graphviz, IBM ILOG CPLEX, RapidJson, Boost).
@@ -342,7 +378,7 @@ struktury wielopoziomowej (DKD), z obsługą przepełnienia (DKM)), w oparciu o 
     sztucznej inteligencji (Java, Apache POI-HSSF, CLI, EJB, Google MJL).
 -----------------------------
 
-09. Pozostałe dane
+11. Pozostałe dane
 
 -----------------------------
 •   Członek Zespołu jest tworzywem, które spaja zespół. Zdecydowanie przyczynia się do wytworzenia „ducha zespołu”. 
@@ -364,7 +400,5 @@ struktury wielopoziomowej (DKD), z obsługą przepełnienia (DKM)), w oparciu o 
 -----------------------------
 - dobór ról i ich opis oparty o test Mereditha Belbina, stworzony w oparciu o teorię ról zespołowych.
 -----------------------------
-
-10. TEMA
-
------------------------------
+Wyrażam zgodę na przetwarzanie moich danych osobowych zawartych w ofercie pracy niezbędnych do realizacji procesu rekrutacji, 
+zgodnie z art. 7 ust. 2 Rozporządzenia Parlamentu Europejskiego i Rady UE 2016/679 z 27 kwietnia 2016 r. tzw. RODO.
