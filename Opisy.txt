@@ -297,7 +297,7 @@ Przejdź do projektu w repozytorium
 Aplikacja internetowa do zarządzania przesłanymi przez uczniów materiałami. 
 Umożliwia zakładanie kont, przesyłanie plików i zdjęć  z eksploratora plików 
 i bezpośrednio z aparatów telefonu, rozbudowaną konfigurację: definiowanie typów zadań, 
-klas, przedmiotów, ikon, zażądzanie użytkownikami. Umożliwia przeglądanie przesłanych 
+klas, przedmiotów, ikon, zarządzanie użytkownikami. Umożliwia przeglądanie przesłanych 
 przez uczniów plików bezpośrednio w aplikacji i ocenianie ich. Wysyłane dokumenty trafiają 
 także na zdefiniowane konta e-mail (Angular, Angular Material, RxJs, Firebase).
 
@@ -320,7 +320,7 @@ Introduction to Blazor
 
 Przejdź do projektu w repozytorium
 
-Aplikacja internetowa prezentująca pełny zakres możliwości silnika Blazor. Aplikacja zawiera interaktywną dokumentację wraz z instrukcjami przeprowadzającymi krok po kroku przez proces budowania komponentu Razor w 12 osobnych modułch. Każdy moduł omawia kolejne aspekty silnika m.in. parametry, powiązania danych, fragmenty, cykl życia, wbudowane komponenty, wartości 
+Aplikacja internetowa prezentująca pełny zakres możliwości silnika Blazor. Aplikacja zawiera interaktywną dokumentację wraz z instrukcjami przeprowadzającymi krok po kroku przez proces budowania komponentu Razor w 12 osobnych modułach. Każdy moduł omawia kolejne aspekty silnika m.in. parametry, powiązania danych, fragmenty, cykl życia, wbudowane komponenty, wartości 
 kaskadowe, formularze, nawigacja, serwisy Blazor, JS Interop, komunikacja z API (C#, Blazor, ASP.NET Core, EF Core, SCSS, TS).
 
 -----------------------------
