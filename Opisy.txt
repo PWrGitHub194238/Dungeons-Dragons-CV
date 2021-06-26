@@ -294,33 +294,30 @@ Chemistry Home Office
 
 Przejdź do projektu w repozytorium
 
-Aplikacja internetowa do zarządzania przesłanymi przez uczniów materiałami. 
-Umożliwia zakładanie kont, przesyłanie plików i zdjęć  z eksploratora plików 
-i bezpośrednio z aparatów telefonu, rozbudowaną konfigurację: definiowanie typów zadań, 
-klas, przedmiotów, ikon, zarządzanie użytkownikami. Umożliwia przeglądanie przesłanych 
-przez uczniów plików bezpośrednio w aplikacji i ocenianie ich. Wysyłane dokumenty trafiają 
-także na zdefiniowane konta e-mail (Angular, Angular Material, RxJs, Firebase).
+Aplikacja internetowa do zarządzania przesłanymi przez uczniów materiałami. Umożliwia zakładanie kont, przesyłanie plików i zdjęć 
+z eksploratora plików i bezpośrednio z aparatów telefonu, rozbudowaną konfigurację: definiowanie typów zadań, klas, przedmiotów, 
+ikon, zarządzanie użytkownikami. Umożliwia przeglądanie przesłanych przez uczniów plików bezpośrednio w aplikacji i ocenianie ich. 
+Wysyłane dokumenty trafiają także na zdefiniowane konta e-mail (Angular, Angular Material, RxJs, Firebase).
 
 -----------------------------
 Azure Shorts: Funckje Azure
 
 Przejdź do projektu w repozytorium
 
-Stworzenie krótkiego wystąpienia w ramach .NET Community 
-w celu zaprezentowania możliwości platformy Azure. 
-W pierwszej prezentacji zostały przedstawione bezstanowe funkcje Azure 
-z wykorzystaniem innych serwisów platformy jak: wyzwalacze HTTP, 
-Azure Cosmos DB, Kolejki Azure, Azure Blob Storage oraz Azure SendGrid 
-wraz z podpięciem do zewnętrznej usługi Trello. Repozytorium projektu zawiera 
-opis przykładów stworzonych na potrzeby prezentacji danych funkcjonalności 
-(C#, Azure Functions, PowerShell).
+Stworzenie krótkiego wystąpienia w ramach .NET Community w celu zaprezentowania możliwości platformy Azure. 
+W pierwszej prezentacji zostały przedstawione bezstanowe funkcje Azure z wykorzystaniem innych serwisów platformy jak: 
+wyzwalacze HTTP, Azure Cosmos DB, Kolejki Azure, Azure Blob Storage oraz Azure SendGrid wraz z podpięciem 
+do zewnętrznej usługi Trello. Repozytorium projektu zawiera opis przykładów stworzonych na potrzeby prezentacji danych 
+funkcjonalności (C#, Azure Functions, PowerShell).
 
 -----------------------------
 Introduction to Blazor
 
 Przejdź do projektu w repozytorium
 
-Aplikacja internetowa prezentująca pełny zakres możliwości silnika Blazor. Aplikacja zawiera interaktywną dokumentację wraz z instrukcjami przeprowadzającymi krok po kroku przez proces budowania komponentu Razor w 12 osobnych modułach. Każdy moduł omawia kolejne aspekty silnika m.in. parametry, powiązania danych, fragmenty, cykl życia, wbudowane komponenty, wartości 
+Aplikacja internetowa prezentująca pełny zakres możliwości silnika Blazor. Aplikacja zawiera interaktywną dokumentację wraz 
+z instrukcjami przeprowadzającymi krok po kroku przez proces budowania komponentu Razor w 12 osobnych modułach. Każdy moduł 
+omawia kolejne aspekty silnika m.in. parametry, powiązania danych, fragmenty, cykl życia, wbudowane komponenty, wartości 
 kaskadowe, formularze, nawigacja, serwisy Blazor, JS Interop, komunikacja z API (C#, Blazor, ASP.NET Core, EF Core, SCSS, TS).
 
 -----------------------------
