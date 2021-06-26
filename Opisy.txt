@@ -17,6 +17,14 @@ Profil GitHub
 
 Go to the GitHub repository.
 -----------------------------
+Profil StackOverflow
+
+View StackOverflow's profile.
+-----------------------------
+Profil Credly
+
+View Credly's profile.
+-----------------------------
 
 02. Atrybuty
 
@@ -160,7 +168,7 @@ Candidates for this exam are seeking to prove core software development skills.
 -----------------------------
 Cert: MTA
 
-Certyfikat Microsoft Technology Associate
+Certificate Microsoft Technology Associate
 -----------------------------
 Cert: Programming in C#
 
@@ -168,7 +176,15 @@ Candidates for this exam are developers with at least one year of experience pro
 -----------------------------
 Cert: Developing ASP.NET NVC Web Applications
 
-Kandydatami do tego egzaminu to profesjonalni programiści, którzy używają Microsoft Visual Studio 2017 i ASP.NET do projektowania i tworzenia rozwiązań internetowych.
+Candidates for this exam are profesional developers that are using Microsoft Visual Studio 2017 and ASP.NET to design and create web solutions.
+-----------------------------
+Cert: MCSA
+
+Certificate MCSA: Web Applications
+-----------------------------
+Cert: Sitecore
+
+Sitecore® Experience Solution 9 Developer Certification Exam
 -----------------------------
 Cert: Programming in HTML5 with JavaScript and CSS3
 
@@ -179,72 +195,35 @@ Cert: Developing Microsoft Azure and Web Services
 Candidates for this certification are professional developers that use Visual Studio 2017 and the Microsoft® .NET Core Framework to design and develop Web solutions.
 -----------------------------
 
-05. Tło fabularne
+05. Wyniki egzaminów
 
 -----------------------------
-PWr: magisterskie
+Exam 98-361: Software Development Fundamentals
 
-Plan of master's degree studies with specialization of algorithmic.
+   •  Understanding Web Applications (48%)  •  Understanding Databases (100%)  •  Understanding Desktop Applications (48%)
+   •  Understanding General Software Development (88%)  •  Understanding Object-Oriented Programming (100%)  
+   •  Understanding Core Programming (100%)
+   
 -----------------------------
-PWr: inżynier
+Exam 483: Programming in C#
 
-Plan of enginieer's degree studies.
+   •  Application Security and Debugging (87%)  •  Creating and Using Types (100%)
+   •  Implementing Data Access (100%)  •  Managing Program Flow (82%)
+   
 -----------------------------
+Exam 486: Developing ASP.NET MVC Web Applications
 
-06. Języki
-
+   •  Design the Application Architecture (91%)  •  Design the User Experience (100%)  •  Develop the User Experience (92%)
+   •  Troubleshoot and Debug Web Applications (88%)  •  Design and Implement Security (83%)  •  Design the build and Deployment Architecture (80%)
+   
 -----------------------------
+Sitecore Experience Solution 9 Developer Certification Exam
 
-07a. Doświadczenie zawodowe
-
------------------------------
-
-07b. Doświadczenie zawodowe
-
------------------------------
-
-08. Projekty zawodowe
-
------------------------------
-
-09. Umiejętności
+   •  Sitecore Platform Tools (100%)  •  Sitecore Items (83%)  •  Sitecore Platform (100%)
+   •  Sitecore MVC (77%)  •  Search and Indexing (100%)  •  Debugging (100%)  •  Unit Testing (100%)
 
 -----------------------------
-
-10. Projekty akademickie
-
------------------------------
-
-11. Pozostałe dane
-
------------------------------
-
-Zgoda na przetwarzanie
-
------------------------------
-
-
-
-
-01. Dane postaci
-
------------------------------
-
-02. Atrybuty
-
------------------------------
-percentage division of traits and assignment of roles based on tests: and
------------------------------
-
-03. TEMA
-
------------------------------
-
-04. Certyfikaty
-
------------------------------
-
-05. Tło fabularne
+06. Tło fabularne
 
 -----------------------------
 Studies: master’s degree,
@@ -268,12 +247,19 @@ of Fundamental Problems of Technology
 in academic year 2014/2015.
 -----------------------------
 
-06. Języki
+07. Języki
 
 -----------------------------
 
-07a. Doświadczenie zawodowe
+08a. Doświadczenie zawodowe
 
+-----------------------------
+• Software developement (Angular 8-12, Oracle),
+• working within international team, tutoring new team members 
+in the filed of project specification and used technological stack,
+• responsibility for a full software development cycle (collection of requirements, 
+task estimatrions, design, implementation, deploy),
+• creating and maintain of unit tests for both new and existing code.
 -----------------------------
 • Development of new and existing software for the financial sector (C #, .NET, T-SQL),
 • maintaining and transformation of existing solutions to newer technologies,
@@ -291,10 +277,6 @@ design, implementation, deploy, maintenance), contact with client architects,
 • optimization of database structures (Firebird/PSQL), 
 • conducting internal training (Git, ERP application know-how).
 -----------------------------
-
-07b. Doświadczenie zawodowe
-
------------------------------
 • creating functionalities in a CRM class system for a client 
 in Java J2EE technology with the Spring and Hibernate components, 
 based on the Oracle relational database,
@@ -306,25 +288,65 @@ Java J2EE-based system using Spring and Hibernate components
 with the Oracle relational database.
 -----------------------------
 
-08. Projekty zawodowe
+09. Projekty zawodowe
 
 -----------------------------
+Chemistry Home Office
+
+Go to repository with the related project
+
+A web application for managing student files/documents uploads. It supports account creation, files and photos 
+uploads either from the file explorer or directly from the phone cameras, extended configuration: defining types of tasks, classes, items, 
+icons, user management. Application allows to view student's uploads directly in the app and grading them. 
+The documents sent are delivered also to defined e-mail accounts (Angular, Angular Material, RxJs, Firebase).
+
+-----------------------------
+Azure Shorts: Funckje Azure
+
+Go to repository with the related project
+
+A short speech within the .NET Community to showcase the capabilities of Azure.
+The first presentation introduced the stateless Azure functions with the use of other platform services, such as: 
+HTTP triggers, Azure Cosmos DB, Azure Queue Storage, Azure Blob Storage, and Azure SendGrid along with connecting 
+to an external Trello service. The project repository includes description of examples created for the presentation 
+of those functionalities (C #, Azure Functions, PowerShell).
+
+-----------------------------
+Introduction to Blazor
+
+Przejdź do projektu w repozytorium
+
+A web application presenting the full range of Blazor engine capabilities. The application contains interactive documentation with 
+step-by-step instructions through the process of building a Razor component in 12 separate modules. Each module 
+covers various aspects of the engine, including parameters, data bindings, rendering fragments, lifecycle, built-in components, cascading 
+values, forms, navigation, Blazor services, JS Interop, API communication (C #, Blazor, ASP.NET Core, EF Core, SCSS, TS).
+
+-----------------------------
+e-Learning: Git
+
 Creation of an interactive, automated training environment in the field of version control systems (Git). System assumptions: 
 self-developing work with real repositories, provided automatically by the system, defining scenarios to be performed, 
 the possibility of automated verification, system allows automatic interference in the state of any repository, modify it to sute the needs of the next scenarios (artificial repository user), ease of adding scenarios (HTML5, CSS3, JS: jQuery, jQuery UI, AJAX, DataTables, Notify, TipTop, Node.js: Express, Scribe-js, JSON, Gitolite, Perl, Bash, Firebird/PSQL). 
 -----------------------------
+Elektroniczne JPK
+
 Implementation of Standard Audit File for Tax (pl. JPK) service interfaces - a library supporting the generation of JPK documents based on 
 downloaded information from customer databases, ensuring communication with the Ministry of Finance’s electronic 
 document exchange system for JPK (REST, Azure Storage) along with proper data encryption (C#: RestSharp, BouncyCastle, NLog, Firebird/PSQL). 
 -----------------------------
+Neos CLI
+
+
 Implementation of the interface for ERP application for running external libraries. Application assumptions: a graphical interface that downloads and processes information from an ERP application depending on the loaded library (plug-in), displaying the status of data processing progress by a plug-in through a shared interface (C#: WPF, LINQ, Firebird/PSQL). 
 -----------------------------
+Podpis elektroniczny XAdES
+
 Implementation of a plug-in library to support cryptographic processes for the needs of the Ministry of Finance’s 
 electronic file exchange system. System assumptions: offering the possibility of submitting 
 an electronic signature (XAdES-BES) on any XML document (C #: WPF, MVVM, LINQ, BouncyCastle, Nlog).
 -----------------------------
 
-09. Umiejętności
+10. Umiejętności
 
 -----------------------------
    • C# (currently leading – Capgemini Polska Sp. z.o.o., Sente Systemy Informatyczne Sp. z.o.o.), 
@@ -334,18 +356,22 @@ in Sente Systemy Informatyczne Sp. z o.o. - technological debt, rarely used),
 -----------------------------
    • Java SE (a significant part of academic projects, starting cooperation with Comarch S.A – Java EE).
 -----------------------------
-   • JS (Node.js, REST, jQuery oraz jQuery UI, AJAX, TS, laureate of Synergy Codes Code Challenge 2015), 
+   • Angular, Angular Material, TS (Capgemini Polska Sp. z.o.o.),
+-----------------------------
+   • ASP.NET Core MVC (Capgemini Polska Sp. z.o.o.),
+   -----------------------------
+   • JS (Node.js, jQuery oraz jQuery UI, AJAX, laureate of Synergy Codes Code Challenge 2015), 
 -----------------------------
    • HTML5/CSS3 (selectors, CSS-Grid, basic styling and transformations).
 -----------------------------
    • knowledge of relational databases: Firebird (Sente Systemy Informatyczne Sp. z.o.o.), 
-   Oracle (Comarch SA), MS Server (Capgemini Polska Sp. z.o.o.).
+   Oracle (Comarch SA, Capgemini Polska Sp. z.o.o.), MS Server (Capgemini Polska Sp. z.o.o.).
 -----------------------------
-   • Work with project management enviroments like JIRA (Comarch SA, Sente Systemy Informatyczne Sp. z.o.o.),
+   • JIRA (Comarch SA, Sente Systemy Informatyczne Sp. z.o.o., Capgemini Polska Sp. z.o.o.),
 -----------------------------
    • work with version control systems: SVN (Comarch SA), Git (Sente Systemy Informatyczne, Capgemini Polska),
 -----------------------------
-   • work in given programming environments: Visual Studio Express, Eclipse, IBExpert. 
+   • work in given programming environments: Visual Studio, Visual Studio Code, Eclipse, IBExpert. 
 -----------------------------
    • Knowledge of SCRUM methodology (Comarch SA, Sente, Capgemini), GNU Bash environment,
 -----------------------------
@@ -356,7 +382,7 @@ in Sente Systemy Informatyczne Sp. z o.o. - technological debt, rarely used),
    • practical knowledge of LP / MIP / IP programming and optimization packages (GNU Octave, IBM ILOG).
 -----------------------------
 
-10. Projekty akademickie
+11. Projekty akademickie
 
 -----------------------------
 • Master’s degree project. rojekt magisterski. Implementation of robust optimization algorithms with simultaneous solution of problems: minimax, adversary, resistant minimum spanning tree with the possibility of improvement (C++11, log4cxx, Graphviz, IBM ILOG CPLEX, RapidJson, Boost). 
@@ -377,7 +403,7 @@ and a threshold algorithm (THR) (C ISO 9899: 1999).
    on given .txt files (Java, Apache POI-HSSF, CLI, EJB, Google MJL). 
 -----------------------------
 
-11. Pozostałe dane
+12. Pozostałe dane
 
 -----------------------------
 • Team member is the material that connects the team. It definitely contributes to the creation of the „team spirit”. 
