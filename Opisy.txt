@@ -186,13 +186,21 @@ Cert: Sitecore
 
 Sitecore® Experience Solution 9 Developer Certification Exam
 -----------------------------
-Cert: Programming in HTML5 with JavaScript and CSS3
+Cert: Microsoft Azure Fundamentals
 
-Kandydatami do tego egzaminu są programiści z co najmniej rocznym doświadczeniem w rozwijaniu HTML, w obiektowym, sterowanym zdarzeniami modelu programowania oraz programowaniu podstawowej logiki biznesowej dla różnych typów aplikacji, sprzętu i platform oprogramowania za pomocą JavaScript.
+Kandydaci do tego egzaminu powinni mieć podstawową wiedzę na temat usług w chmurze i sposobu ich świadczenia z Microsoft Azure.
 -----------------------------
-Cert: Developing Microsoft Azure and Web Services
+Cert: Microsoft Certified: Azure Fundamentals
 
-Kandydatami do tego certyfikatu to profesjonalni programiści korzystający z Visual Studio 2017 i Microsoft .NET Core Framework do projektowania i tworzenia rozwiązań internetowych.
+Certyfikat Azure Fundamentals
+-----------------------------
+Cert: Developing Solutions for Microsoft Azure
+
+Kandydaci do tego egzaminu powinni posiadać wiedzę merytoryczną z zakresu projektowania, tworzenia, testowania i utrzymywania aplikacji i usług w chmurze na platformie Microsoft Azure.
+-----------------------------
+Cert: Microsoft Certified: Azure Developer Associate
+
+Certyfikat Azure Developer Associate
 -----------------------------
 
 05. Wyniki egzaminów
@@ -221,7 +229,15 @@ Sitecore Experience Solution 9 Developer Certification Exam
 
    •  Narzędzia platformy Sitecore (100%)  •  Sitecore Items (83%)  •  Platforma Sitecore (100%)
    •  Sitecore MVC (77%)  •  Wyszukiwanie i indeksowanie (100%)  •  Debuggowanie (100%)  •  Testowanie jednostkowe (100%)
-   
+
+-----------------------------
+Exam AZ-900: Microsoft Azure Fundamentals
+
+   •  Opis Konceptu Rozwiązań w Chmurze (93%)  •  Opis Podstawowych Usług Platformy Azure (83%)
+   •  Opis Podstawowych Rozwiązań I Narzędzi Do Zarządzania Na Platformie Azure (86%)
+   •  Ogólny Opis Bezpieczeństwa i Funkcji Dotyczących Bezpieczeństwa Sieci (100%)
+   •  Opisz Tożsamości, Zarządzania, Funkcje Prywatności i Zgodności (86%)   •  Opis Cen i Usług Pomocy Platformy Azure (75%)
+
 -----------------------------
 06. Tło fabularne
 
