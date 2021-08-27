@@ -186,13 +186,21 @@ Cert: Sitecore
 
 Sitecore® Experience Solution 9 Developer Certification Exam
 -----------------------------
-Cert: Programming in HTML5 with JavaScript and CSS3
+Cert: Microsoft Azure Fundamentals
 
-Candidates for this exam are developers with at least one year of experience developing with HTML in an object-based, event-driven programming model, and programming essential business logic for a variety of application types, hardware, and software platforms using JavaScript.
+Candidates for this exam should have foundational knowledge of cloud services and how those services are provided with Microsoft Azure.
 -----------------------------
-Cert: Developing Microsoft Azure and Web Services
+Cert: Microsoft Certified: Azure Fundamentals
 
-Candidates for this certification are professional developers that use Visual Studio 2017 and the Microsoft® .NET Core Framework to design and develop Web solutions.
+Microsoft Certified: Azure Fundamentals
+-----------------------------
+Cert: Developing Solutions for Microsoft Azure
+
+Candidates for this exam should have subject matter expertise designing, building, testing, and maintaining cloud applications and services on Microsoft Azure.
+-----------------------------
+Cert: Microsoft Certified: Azure Developer Associate
+
+Microsoft Certified: Azure Developer Associate
 -----------------------------
 
 05. Wyniki egzaminów
@@ -222,6 +230,14 @@ Sitecore Experience Solution 9 Developer Certification Exam
    •  Sitecore Platform Tools (100%)  •  Sitecore Items (83%)  •  Sitecore Platform (100%)
    •  Sitecore MVC (77%)  •  Search and Indexing (100%)  •  Debugging (100%)  •  Unit Testing (100%)
 
+-----------------------------
+Exam AZ-900: Microsoft Azure Fundamentals
+
+   •  Describe Cloud Concepts (93%)  •  Describe Core Azure Services (83%)
+   •  Describe Core Solutions and Management Tools on Azure (86%)
+   •  Describe General Security and Network Security Features (100%)
+   •  Describe Identity, Governance, Privacy, and Compliance Features (86%)   •  Describe Azure Pricing and Support (75%)
+   
 -----------------------------
 06. Tło fabularne
 
