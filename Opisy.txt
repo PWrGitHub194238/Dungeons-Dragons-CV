@@ -269,6 +269,11 @@ Politechniki Wrocławskiej w roku akademickim 2014/2015.
 08a. Doświadczenie zawodowe
 
 -----------------------------
+• 
+• 
+• 
+• 
+-----------------------------
 • Tworzenie i rozwój oprogramowania (Angular 8-12, Oracle),
 • praca w międzynarodowym zespole, opieka i przekazywanie wiedzy 
 nowym osobom z zakresu projektu i użytej technologii,
