@@ -269,10 +269,20 @@ Politechniki Wrocławskiej w roku akademickim 2014/2015.
 08a. Doświadczenie zawodowe
 
 -----------------------------
-• 
-• 
-• 
-• 
+• Tworzenie i rozwój oprogramowania (NET 6, EF 6, Kafka, Angular 13), 
+• odpowiedzialność za pełny cykl wytwarzania oprogramowania 
+(analiza techniczna, wyceniania prac, uzgadnianie ich zakresu z klientem, 
+wytwarzanie oprogramowania, pisanie testów, przeglądanie kodu, prowadzenie dokumentacji
+technicznej, wdrożenie i utrzymanie aplikacji),
+• zarządzanie aplikacją na serwerach On-Premise klienta w klastrach,
+• tworzenie oraz utrzymanie testów jednostkowych, testów automatycznych,
+• opieka nad projektem (budowanie i utrzymywanie rozwiązań do CI/CD na platformie Azure DevOps).
+-----------------------------
+• Tworzenie, rozwój oprogramowania (C#, .NET, Sitecore, SXA, JS), 
+• opieka i transformacja dotychczasowych rozwiązań do nowszych technologii, 
+• odpowiadanie za pełny cykl wytwarzania oprogramowania (zbieranie wymagań, 
+projektowanie, implementacja, wdrożenie, utrzymanie), kontakt z architektami klienta,
+• tworzenie oraz utrzymanie testów jednostkowych.
 -----------------------------
 • Tworzenie i rozwój oprogramowania (Angular 8-12, Oracle),
 • praca w międzynarodowym zespole, opieka i przekazywanie wiedzy 
@@ -285,6 +295,10 @@ nowym osobom z zakresu projektu i użytej technologii,
 • odpowiadanie za pełny cykl wytwarzania oprogramowania (zbieranie wymagań, 
 projektowanie, implementacja, wdrożenie, utrzymanie), kontakt z architektami klienta,
 • tworzenie oraz utrzymanie testów jednostkowych.
+-----------------------------
+
+08a. Doświadczenie zawodowe
+
 -----------------------------
 • Utrzymanie i rozwijanie autorskiego frameworka Neos,  
 rozwój aplikacji SenteS4 oraz WWW (C#, Firebird/PSQL, CSS),
