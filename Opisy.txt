@@ -270,10 +270,20 @@ in academic year 2014/2015.
 08a. Doświadczenie zawodowe
 
 -----------------------------
-• 
-• 
-• 
-• 
+• Software development (NET 6, EF 6, Kafka, Angular 13),
+• responsibility for the full cycle of software development (technical analysis, estimations, agreeing scope with the client,
+software development, writing tests, reviewing the code, keeping technical documentation, implementation,
+deployment and maintenance of the application).
+• management of the application on the client's On-Premise servers in clusters,
+• creating and maintaining unit tests, automated tests,
+• project management (building and maintaining solutions for CI / CD on the Azure DevOps platform).
+-----------------------------
+• Software developement (C#, .NET, Sitecore, SXA, JS), 
+• working within international team, tutoring new team members 
+in the filed of project specification and used technological stack,
+• responsibility for a full software development cycle (collection of requirements, 
+task estimatrions, design, implementation, deploy),
+• creating and maintain of unit tests for both new and existing code.
 -----------------------------
 • Software developement (Angular 8-12, Oracle),
 • working within international team, tutoring new team members 
@@ -287,6 +297,10 @@ task estimatrions, design, implementation, deploy),
 • responsibility for a full software development cycle (collection of requirements, 
 design, implementation, deploy, maintenance), contact with client architects,
 • creating and maintain of unit tests for both new and existing code.
+-----------------------------
+
+08b. Doświadczenie zawodowe
+
 -----------------------------
 • Maintaining and development the internal framework Neos, creating new functionalities for ERP desktop and web application (C#, Firebird/PSQL, CSS), 
 • developing satellite, Neos-based products/plug-in’s (C#),
