@@ -297,7 +297,7 @@ projektowanie, implementacja, wdrożenie, utrzymanie), kontakt z architektami kl
 • tworzenie oraz utrzymanie testów jednostkowych.
 -----------------------------
 
-08a. Doświadczenie zawodowe
+08b. Doświadczenie zawodowe
 
 -----------------------------
 • Utrzymanie i rozwijanie autorskiego frameworka Neos,  
